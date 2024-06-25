@@ -12,3 +12,4 @@ new code, but not finished yet
 added in web interface
 
 Тут делаем пару коммитов для feature2
+And second...
